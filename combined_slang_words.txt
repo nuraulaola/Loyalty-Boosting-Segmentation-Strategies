@@ -172,7 +172,7 @@
   "dst": "dan seterusnya",
   "dtg": "datang",
   "duh": "aduh",
-  "duren": "durian"
+  "duren": "durian",
   "ed": "edisi",
   "egp": "emang gue pikirin",
   "eke": "aku",
