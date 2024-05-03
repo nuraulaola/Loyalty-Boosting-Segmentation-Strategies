@@ -1,4 +1,8 @@
 {
+  "trimakasih": "terima kasih", 
+  "iiyaang": "yang", 
+  "sudiah": "sudah", 
+  "trdiaftar": "terdaftar",
   "kakaksih": "kasih",
   "sorw": "sore",
   "menampilkakakn": "menampilkan",
