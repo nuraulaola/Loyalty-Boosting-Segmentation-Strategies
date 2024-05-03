@@ -1,5 +1,6 @@
-{{
+{
   "kakaksih": "kasih",
+  "sorw": "sore",
   "menampilkakakn": "menampilkan",
   "kakakkakakksih": "kasih",
   "iyaaaa": "iya",
