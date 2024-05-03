@@ -7,7 +7,7 @@
 "mash":"masih",
 "iiya":"iya",
 "kakakkakakak":"kakak",
-"saiya:saya",
+"saiya":saya",
 "iiiya":"iya",
 "saiiiya":"saya",
 "iiiiya":"iya",
